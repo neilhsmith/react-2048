@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-2048/static/js/main.2325b951.js",
+    "static/js/787.c584118e.chunk.js": "/react-2048/static/js/787.c584118e.chunk.js",
+    "index.html": "/react-2048/index.html",
+    "main.2325b951.js.map": "/react-2048/static/js/main.2325b951.js.map",
+    "787.c584118e.chunk.js.map": "/react-2048/static/js/787.c584118e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2325b951.js"
+  ]
+}
