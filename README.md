@@ -12,3 +12,7 @@ A game of 2048 built with React, TypeScript and Styled Components.
 - cells are combining multiple times in a single pass
   - **wrong** 2, 2, 2, 2 => 0, 0, 0, 8
   - **right** 2, 2, 2, 2 => 0, 0, 4, 4
+- add win condition
+- keep track of score & high score
+- add move timer
+  - a 3 - 5 second timer which adds a random cell to the board if a move is not made before the timer runs out
